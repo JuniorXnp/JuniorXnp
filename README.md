@@ -5,13 +5,14 @@
 Sobre mim
 Sou Paulo Junior, estudante de Engenharia de Software na UFMS. Atuo na área de tecnologia da Nabarrete e Ferro, desenvolvendo sistemas e automações para apoiar as rotinas da empresa.
 
-No dia a dia, trabalho com Python, Django, JavaScript e PostgreSQL, desde a criação de funcionalidades até a manutenção e melhoria das soluções em uso.
+No dia a dia, trabalho com Python, Django, JavaScript, PostgreSQL e Docker, desde a criação de funcionalidades até a manutenção e melhoria das soluções em uso.
 Minha atuação na Nabarrete e Ferro
 - Desenvolvimento e manutenção de aplicações web e ferramentas internas.
 - Automação de tarefas repetitivas e rotinas operacionais com Python e Selenium.
 - Integração entre sistemas e APIs para coleta e troca de informações.
 - Consultas SQL, organização e armazenamento de dados com PostgreSQL.
 - Criação de dashboards e relatórios para acompanhamento da operação.
+- Configuração e execução de aplicações em contêineres com Docker.
 - Investigação de falhas e melhorias nos processos e sistemas utilizados pela equipe.
 Tecnologias e ferramentas
 <p>
@@ -26,6 +27,7 @@ Tecnologias e ferramentas
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge" />
 </p>
