@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">Paulo Junior</title>
+  <desc id="desc">Python, automação e desenvolvimento web</desc>
+  <rect x="1" y="1" width="1198" height="238" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text x="48" y="113" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="700" fill="#f0f6fc">Paulo <tspan fill="#2f81f7">Junior</tspan></text>
+  <text x="50" y="158" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#9da7b3">Python, automação e desenvolvimento web</text>
+  <g stroke-linecap="square" fill="none" stroke-width="4">
+    <path d="M785 65h110 M915 65h70 M800 92h135 M785 120h30 M835 120h170 M800 148h85 M905 148h65 M800 175h140" stroke="#26374a"/>
+    <path d="M785 65h110 M785 120h30 M800 175h70" stroke="#2f81f7"/>
+    <path d="m1060 100-20 20 20 20 m65-40 20 20-20 20 m-30-50-18 60" stroke="#2f81f7" stroke-width="7" stroke-linejoin="round"/>
+  </g>
+</svg>
