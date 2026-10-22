@@ -1,15 +1,19 @@
 <p align="center">
-  <img src="./banner.svg" alt="Paulo Silva — Python, automação e desenvolvimento web" width="100%" />
+  <img src="./banner.svg" alt="Paulo Junior — Python, automação e desenvolvimento web" width="100%" />
 </p>
 
-## Sobre mim
+Sobre mim
+Sou Paulo Junior, estudante de Engenharia de Software na UFMS. Atuo na área de tecnologia da Nabarrete e Ferro, desenvolvendo sistemas e automações para apoiar as rotinas da empresa.
 
-Sou Paulo, estudante da UFMS. Trabalho com desenvolvimento de sistemas, automação de processos e integração de dados. Uso Python, Django, JavaScript e PostgreSQL para criar soluções que facilitam o trabalho do dia a dia.
-
-Atualmente, também estou desenvolvendo o **StudyAI**, meu projeto de estudos com Python e Django.
-
-## Tecnologias e ferramentas
-
+No dia a dia, trabalho com Python, Django, JavaScript e PostgreSQL, desde a criação de funcionalidades até a manutenção e melhoria das soluções em uso.
+Minha atuação na Nabarrete e Ferro
+- Desenvolvimento e manutenção de aplicações web e ferramentas internas.
+- Automação de tarefas repetitivas e rotinas operacionais com Python e Selenium.
+- Integração entre sistemas e APIs para coleta e troca de informações.
+- Consultas SQL, organização e armazenamento de dados com PostgreSQL.
+- Criação de dashboards e relatórios para acompanhamento da operação.
+- Investigação de falhas e melhorias nos processos e sistemas utilizados pela equipe.
+Tecnologias e ferramentas
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" />
@@ -26,30 +30,6 @@ Atualmente, também estou desenvolvendo o **StudyAI**, meu projeto de estudos co
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge" />
 </p>
 
-## O que eu desenvolvo
-
-| Automação de processos | Aplicações web | Integrações e dados |
-| --- | --- | --- |
-| Scripts e robôs com Python e Selenium para tarefas repetitivas. | Sistemas, dashboards e relatórios com Django e JavaScript. | Integração entre sistemas, consultas SQL e persistência com PostgreSQL. |
-
-## Projetos
-
-### StudyAI
-
-Projeto de estudos com Python e Django, desenvolvido para praticar programação e construir uma aplicação do zero.
-
-**Tecnologias:** Python · Django
-
-### Monitoramento de agentes
-
-Sistema para acompanhar status de agentes, períodos de pausa e indicadores da operação, com dashboards e relatórios.
-
-**Tecnologias:** Python · Django · JavaScript
-
-### Automação financeira
-
-Automação para apoiar a conferência de despesas, coletar informações e organizar os registros em banco de dados.
-
-**Tecnologias:** Python · Selenium · PostgreSQL
-
-<!-- Quando os endereços dos repositórios estiverem definidos, transforme os títulos dos projetos em links. -->
+O que eu desenvolvo
+Automação de processos	Aplicações web	Integrações e dados
+Scripts e robôs com Python e Selenium para tarefas repetitivas.	Sistemas, dashboards e relatórios com Django e JavaScript.	Integração entre sistemas, consultas SQL e persistência com PostgreSQL.
